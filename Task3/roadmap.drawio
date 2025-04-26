@@ -1,0 +1,112 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="gztIsQaR91BBq8jmoTYw">
+    <mxGraphModel dx="2555" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-2" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="363.2" width="4520" height="196.8" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-5" value="Домен медицинский" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="120" y="363.20000000000005" width="120" height="196.8" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-6" value="Домен финтех" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="120" y="580" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-7" value="Q1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="250" y="270" width="1080" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-13" value="Платформенная команда" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="120" y="825" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-15" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="820" width="4500" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-24" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="270" width="1080" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-25" value="Q3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="2520" y="270" width="1080" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-26" value="Q4" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="3700" y="270" width="1080" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-27" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;392&quot; data-start=&quot;378&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)]&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;431&quot; data-start=&quot;392&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)]&quot;&gt;Разработка схем данных микросервисов&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="420" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-30" value="Передача метаданных в DataHub" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="414" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-31" value="Настроить публикацию метаданных в DataHub через интеграционный слой" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="417" width="490" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-40" value="Разработка пайплайнов в Airflow для всех источников (ETL/ELT)" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="940" width="2160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-41" value="Настройка DataHub" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="855" width="960" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-42" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1085" width="4500" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-43" value="DevOps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1095" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-44" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;1310&quot; data-start=&quot;1294&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)]&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;1360&quot; data-start=&quot;1310&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)] min-w-[calc(var(--thread-content-max-width)/3)]&quot;&gt;Развёртывание хранилища DataLake (S3 + Iceberg + Nessie)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1169" y="1135" width="901" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-45" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;1411&quot; data-start=&quot;1395&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)]&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;1458&quot; data-start=&quot;1411&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)] min-w-[calc(var(--thread-content-max-width)/3)]&quot;&gt;Внедрение движка Dremio для доступа к данным&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="1135" width="670" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-46" value="Разворачивание и интеграция DataHub" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="1135" width="770" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-47" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="1335" width="4500" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-48" value="BI-команда" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1345" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-49" value="Построение витрин данных на Dremio / Data Lakehouse" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2470" y="1370" width="2350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-53" value="Построение портала самообслуживания и отчётности" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3910" y="1460" width="920" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ankwaupJ0nZVvk4ZJZy9-54" value="Постепенный отказ от Apache Camel" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3700" y="905" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-1" value="Настройка выгрузки данных в Kafka/шину" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="423" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-2" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="580" width="4520" height="196.8" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-3" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;392&quot; data-start=&quot;378&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)]&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;431&quot; data-start=&quot;392&quot; class=&quot;max-w-[calc(var(--thread-content-max-width)*2/3)]&quot;&gt;Разработка схем данных микросервисов&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="636.8" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-4" value="Передача метаданных в DataHub" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="630.8" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-5" value="Настроить публикацию метаданных в DataHub через интеграционный слой" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="633.8" width="490" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-6" value="Настройка выгрузки данных в Kafka/шину" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="639.8" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-7" value="Проанализировать требования к витринам данных и доступу." style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1370" width="1815" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-8" value="Настроить потоковую загрузку изменений в Data Lakehouse через Kafka." style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="845" width="901" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-9" value="Переезд старых отчётов на новые витрины" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2480" y="1460" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-P1NNRbcpX-59i7T_ha-10" value="Переезд на Tableau" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=center;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3210" y="1460" width="680" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
